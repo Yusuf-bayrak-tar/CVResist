@@ -7,3 +7,4 @@ torch
 torchvision
 setuptools>=65.0
 wheel
+python-multipart
