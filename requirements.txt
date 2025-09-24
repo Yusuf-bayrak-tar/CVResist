@@ -1,10 +1,6 @@
 fastapi
 uvicorn
 gunicorn
-ultralytics
+numpy
 opencv-python-headless
-torch
-torchvision
-setuptools>=65.0
-wheel
 python-multipart
